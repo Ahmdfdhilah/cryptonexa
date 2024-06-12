@@ -1,4 +1,3 @@
-# ![Icon](./logo.png) 
 # MariBelajar | Capstone Project 
 ## Kelompok Angklungis
 
