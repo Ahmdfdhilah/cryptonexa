@@ -1,11 +1,12 @@
-# ![Icon](./logo.png) MariBelajar | Capstone Project 
+# ![Icon](./logo.png) 
+# MariBelajar | Capstone Project 
 ## Kelompok Angklungis
 
- - [Rima Artha] (Mentor Capstone)
- - [Ahmad Fadillah] (Power Apps Developer)
- - [Muhammad Addin] (AI Engineer)
- - [Muhammad Wahyu Ilham] (Power Apps Developer)
- - [Putri Rahayu Kusuma Ningrum] (Project Manager)
+ - Rima Artha (Mentor Capstone)
+ - Ahmad Fadillah (Data Analyst and AI)
+ - Muhammad Addin (Data Analyst and AI)
+ - Muhammad Wahyu Ilham (Mobile & Web Developer)
+ - Putri Rahayu Kusuma Ningrum (Microsoft Data Engineer)
 
 # Automated Distributed Approval System
 
