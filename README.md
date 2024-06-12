@@ -1,4 +1,4 @@
-# MariBelajar | Capstone Project 
+# ![Icon](./logo.png) MariBelajar | Capstone Project 
 ## Kelompok Angklungis
 
  - [Rima Artha] (Mentor Capstone)
