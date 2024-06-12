@@ -56,30 +56,32 @@ The automated distributed approval system is designed to facilitate the approval
 
 1. **Clone the Repository**
 
-   \```bash
+   ```bash
    git clone https://github.com/Ahmdfdhilah/cryptonexa
-   cd cryptonexa
-   \```
+   ```
+    ```bash
+   cd cryptonexa/agent-model
+   ```
 
 2. **Add Submodules**
 
-   \```bash
+   ```bash
    git submodule update --init --recursive
-   \```
+   ```
 
 3. **Install Python Dependencies**
 
-   \```bash
+   ```bash
    pip install -r requirements.txt
-   \```
+   ```
 
 4. **Set Up FastAPI Server**
 
    Create a `.env` file and configure your environment variables.
 
-   \```bash
+   ```bash
    uvicorn main:app --reload
-   \```
+   ```
 
 5. **Set Up Power Apps and Power Automate**
 
